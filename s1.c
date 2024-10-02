@@ -4,8 +4,8 @@ void main()
 {
 int a;
 
-cout<<"Enter any no. : ");
-cin>>%d,a
+cout<<"Enter any no. : ";
+cin>>a;
 
-cout<<"You have entered : "<<%d,a
+cout<<"You have entered : "<<a;
 }
