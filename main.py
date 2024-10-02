@@ -1,1 +1,1 @@
-printf("Welcome to python program")
+print("Welcome to python program")
